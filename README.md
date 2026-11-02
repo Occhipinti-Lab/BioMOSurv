@@ -4,7 +4,7 @@ The project is organised to support end-to-end workflows, including data preproc
 
 ## Data availability 
 The preprocessed datasets and GSMM model are available through Zenodo:
-[Zenodo/BioMOSurv]([https://zenodo.org/records/22832648](https://zenodo.org/records/22832648?preview=1\&token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc4OTc0NDc4MSwiZXhwIjoxODAxMzUzNTk5fQ.eyJpZCI6ImIxYzBiNzE0LWE3MDEtNDg1YS1hM2QyLWJiOWM4NjA5MzZkYiIsImRhdGEiOnt9LCJyYW5kb20iOiIzNzkwYWNmMzg0NDEwYzAzZTdiNDVmNGUwNTQzZjRjZiJ9.vKXAxME075GilmO18_usBcVFtWRUND11JWBALkUy0zOndNX4oOFKqCjI65yRTcByXbfRSr5-OnC-IahkNOBRWg)
+[Zenodo/BioMOSurv](https://zenodo.org/records/22832648?preview=1\&token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc4OTc0NDc4MSwiZXhwIjoxODAxMzUzNTk5fQ.eyJpZCI6ImIxYzBiNzE0LWE3MDEtNDg1YS1hM2QyLWJiOWM4NjA5MzZkYiIsImRhdGEiOnt9LCJyYW5kb20iOiIzNzkwYWNmMzg0NDEwYzAzZTdiNDVmNGUwNTQzZjRjZiJ9.vKXAxME075GilmO18_usBcVFtWRUND11JWBALkUy0zOndNX4oOFKqCjI65yRTcByXbfRSr5-OnC-IahkNOBRWg)
 
 ## Repository Structure 
 ```text
